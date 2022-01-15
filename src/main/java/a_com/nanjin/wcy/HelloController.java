@@ -1,4 +1,4 @@
-package com.nanjin.wcy;
+package a_com.nanjin.wcy;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
